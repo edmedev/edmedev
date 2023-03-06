@@ -29,4 +29,3 @@ I have studied web development courses at **Platzi** and I am currently taking a
 - Handy JavaScript
 - Front End Developer
 - React practical
-# edmedev
