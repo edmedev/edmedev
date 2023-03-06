@@ -2,7 +2,7 @@
 
 # Hi, My name is Eduardo Mendez.
 
-![profile image](https://raw.githubusercontent.com/edmedev/edmedev/main/img-profile.png)
+![profile image](banner-profile.png)
 _______
 
 ### I am a Technologist in Marketing Management and I am a Web Development Student.
