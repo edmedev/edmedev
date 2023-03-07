@@ -1,6 +1,6 @@
 [//]: # (http://localhost:8080/edmedev/index.html)
 
-# Hi, My name is Eduardo Mendez.
+# Hi, I am Eduardo Mendez.
 
 ![profile image](banner-profile.png)
 _______
@@ -13,12 +13,12 @@ I have studied web development courses at **Platzi** and I am currently taking a
 ## Projects:
 
 - [BatataBit](https://edmedev.github.io/batatabit/)
-- [Figuras Geométricas](https://edmedev.github.io/figuras-geometricas/)
-- [Porcentajes y Descuentos](https://edmedev.github.io/porcentajes-y-descuentos/)
-- [EDEM Movies](https://edmedev.github.io/edem-movies/)
+- [Geometric Figures](https://edmedev.github.io/figuras-geometricas/)
+- [Percentages and Discounts](https://edmedev.github.io/porcentajes-y-descuentos/)
+- [EDEM Movies](https://edmedev.github.io/edme-movies/)
 
 
-## Course taken at Platzi:
+## Courses taken at Platzi:
 
 - Algorithm and logical thinking
 - Sorting algorithms
