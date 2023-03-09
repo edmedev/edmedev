@@ -1,31 +1,35 @@
-[//]: # (http://localhost:8080/edmedev/index.html)
+[//]:# (https://github.com/edmedev/)
 
-# Hi, I am Eduardo Mendez.
+# Hello, my name is Eduardo Mendez.
 
-![profile image](banner-profile.png)
+![profile image](https://raw.githubusercontent.com/edmedev/edmedev/main/banner-profile.png)
 _______
 
-### I am a Technologist in Marketing Management and I am a Web Development Student.
+## I am a Marketing Management Technologist and Web Developer Training.
 
-I have studied web development courses at **Platzi** and I am currently taking a **Full-stack JavaScript Bootcamp**. In this **README.md** I show some projects that I have implemented in my process as a Web Developer.
+I have studied web development courses at Platzi and I am currently taking a Full-Stack JavaScript Bootcamp. with Guillermo Rodas. In this profile I show the projects that I have carried out in my experience and the technologies that I know.
+
+
+## Technologies I use:
+
+- Visual Studio Code
+- Git and GitHub
+- Ubuntu
+- HTML
+- CSS
+- JavaScript
 
 
 ## Projects:
 
 - [BatataBit](https://edmedev.github.io/batatabit/)
 - [Geometric Figures](https://edmedev.github.io/figuras-geometricas/)
-- [Percentages and Discounts](https://edmedev.github.io/porcentajes-y-descuentos/)
+- [Percentages and Discounts](https://edmedev.github.io/percentages-and-discounts/)
 - [EDEM Movies](https://edmedev.github.io/edme-movies/)
 
 
-## Courses taken at Platzi:
+## Academic training:
 
-- Algorithm and logical thinking
-- Sorting algorithms
-- Terminal introduction
-- Git and GitHub
-- HTML and CSS
-- Basic JavaScript
-- Handy JavaScript
-- Front End Developer
-- React practical
+- **Full-Stack JavaScript Bootcamp** - Undefined Academy - Currently studying
+- **FrontEnd Web Development** - Endeavor and Platzi - 2022
+- **Marketing Management Technologist** - Politecnico Grancolombiano - 2021
