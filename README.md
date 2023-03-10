@@ -7,7 +7,7 @@ _______
 
 ## I am a Marketing Management Technologist and Web Developer Training.
 
-I have studied web development courses at Platzi and I am currently taking a Full-Stack JavaScript Bootcamp. with Guillermo Rodas. In this profile I show the projects that I have carried out in my experience and the technologies that I know.
+I have studied **web development** courses at **Platzi** and I am currently taking a **Full-Stack JavaScript Bootcamp** with **Guillermo Rodas**. In this profile I show the projects that I have carried out in my experience and the technologies that I know.
 
 
 ## Technologies I use:
