@@ -17,6 +17,7 @@ I have studied **web development** courses at **Platzi** and I am currently taki
 - Ubuntu
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 
 
