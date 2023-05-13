@@ -22,7 +22,7 @@ I have studied **web development** courses at **Platzi** and I am currently taki
 
 ## Projects:
 
-- [BatataBit](https://edmedev.github.io/Barberia-Alura/)
+- [Barbería Alura](https://edmedev.github.io/Barberia-Alura/)
 - [Geometric Figures](https://edmedev.github.io/figuras-geometricas/)
 - [Percentages and Discounts](https://edmedev.github.io/percentages-and-discounts/)
 - [EDEM Movies](https://edmedev.github.io/edme-movies/)
